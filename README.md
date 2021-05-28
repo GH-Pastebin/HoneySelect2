@@ -44,10 +44,10 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.16.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.16.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
 - [`HS2_Subtitles_v2.0.2`](https://github.com/DeathWeasel1337/KK_Plugins/releases/tag/v182)
-- [`HS2_Launcher_v3.1.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`HS2_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`HS2_English_Translation_Alpha_v0.01`](http://www.mediafire.com/file/eb71lfw9pfgqtht/HS2_English_Translation_Alpha_v0.01.7z/file)
 - [`HS2_DX_English_Translation_v3.0`](https://github.com/IllusionMods/HS2-Translation/releases/tag/v3)
 - [`HS2_Translation_Helper_v1.1.0.1`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r16)
@@ -99,7 +99,7 @@
 - [`HS2_Boob_Settings_v1.1.0`](https://github.com/FairBear/HS2_BoobSettings/releases)
 - [`HS2_Push_Up_v2.1`](https://mikkemods.blogspot.com/2020/07/pushup-plugin-v21-corset-effect.html)
 - [`HS2_Better_H_Scenes_v2.6.2`](https://github.com/Mantas-2155X/BetterHScenes/releases)
-- [`HS2_Quick_Access_Box_v2.3`](https://www.patreon.com/posts/38060886) 
+- [`HS2_Quick_Access_Box_v2.4`](https://www.patreon.com/posts/38060886) 
 - [`HS2_Browser_Folders_v2.5.1`](https://www.patreon.com/posts/40644638) 
 - [`HS2_Specter_v0.1`](https://ux.getuploader.com/moistened_eye/download/132) 
 - [`HS2_VN_Game_Engine_v27.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
