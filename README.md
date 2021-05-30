@@ -119,5 +119,4 @@
 - [`HS2_Additional_Accessory_Controls_v1.0.6`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`HS2_Dynamic_Bone_Editor_v1.0.3`](https://www.patreon.com/posts/48134621)
 - [`HS2_Cheat_Tools_v2.10.1`](https://www.patreon.com/posts/37889909)
-- [`HS2 Animation_Overdrive_v1.1`](https://github.com/DeathWeasel1337/KK_Plugins)
 - [`HS2 DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
