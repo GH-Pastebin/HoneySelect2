@@ -63,7 +63,7 @@
 - [`HS2_Manager_ᴠ0.16.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`HS2_Illusion_Fixes_ᴠ15.2.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_Illusion_Overlay_Mods_ᴠ6.0.1`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
-- [`HS2_API_ᴠ1.19`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`HS2_API_ᴠ1.20`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`HS2_ABMX_ᴠ4.4.1`](https://github.com/ManlyMarco/ABMX/releases)
 - [`HS2_Material_Editor_ᴠ3.1.1`](https://www.patreon.com/posts/materialeditor-1-51454810)
 - [`HS2_Runtime_Unity_Editor_BepInEx5_v2.4`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
