@@ -116,7 +116,7 @@
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`HS2_Video_Export_v1.2.1`](https://joan6694.bitbucket.io/)
 - [`HS2_Pregnancy_Plus_ᴠ3.16`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`HS2_Adv_IK_Plugin_v1.5.5`](https://github.com/OrangeSpork/AdvIKPlugin/releases/tag/1.5.5)
+- [`HS2_Adv_IK_Plugin_v1.6.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases/tag/1.5.5)
 - [`HS2_Additional_Accessory_Controls_v1.0.6`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`HS2_Dynamic_Bone_Editor_v1.0.3`](https://www.patreon.com/posts/48134621)
 - [`HS2_Cheat_Tools_v2.10.1`](https://www.patreon.com/posts/37889909)
