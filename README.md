@@ -88,7 +88,7 @@
 - [`HS2_Character_Export_v1.0`](https://www.patreon.com/posts/32434052) 
 - [`HS2_Pose_Folders_v1.0`](https://www.patreon.com/posts/31127973)
 - [`HS2_Pose_Quick_Load_v1.0`](https://www.patreon.com/posts/35871646)
-- [`HS2_Graphics_v0.3.3`](https://github.com/ore-/Graphics/releases)
+- [`HS2_Graphics_v0.4.0`](https://github.com/ore-/Graphics/releases)
 - [`HS2_Graphics_Plugin_v0.8.1`](https://github.com/OrangeSpork/HS2VR/releases/tag/0.8.1)
 - [`HS2_Studio_Scene_Settings_v1.3`](https://www.patreon.com/posts/studioscenesetti-43797497)
 - [`HS2_FK_IK_v1.1.1`](https://www.patreon.com/posts/fkik-v1-1-1-42751758)
