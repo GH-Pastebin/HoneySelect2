@@ -50,7 +50,7 @@
 - [`HS2_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`HS2_English_Translation_Alpha_v0.01`](http://www.mediafire.com/file/eb71lfw9pfgqtht/HS2_English_Translation_Alpha_v0.01.7z/file)
 - [`HS2_DX_English_Translation_v3.0`](https://github.com/IllusionMods/HS2-Translation/releases/tag/v3)
-- [`HS2_Translation_Helper_v1.1.0.8`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r16)
+- [`HS2_Translation_Helper_v1.1.0.8`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r27)
 - [`HS2_Translation_v0.5_Final_Version`](https://bit.ly/2GUPs4g)
 
 --- 
