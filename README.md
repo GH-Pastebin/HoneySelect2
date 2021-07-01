@@ -9,6 +9,11 @@
 --
 
 ---
+**[News]** 
+--
+- [`Anon11/DeathWeasel`](https://www.patreon.com/posts/53085409)
+
+---
 **[FAQ]** 
 --
 - [`Wiki`](https://wiki.anime-sharing.com/hgames/index.php?title=Honey_Select_2)
@@ -44,7 +49,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.16.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.16.3`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
 - [`HS2_Subtitles_v2.0.2`](https://github.com/DeathWeasel1337/KK_Plugins/releases/tag/v182)
 - [`HS2_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
@@ -61,11 +66,11 @@
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
 - [`BepInEx.Plugins_r16.3.1`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`HS2_Manager_ᴠ0.17.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`HS2_Illusion_Fixes_ᴠ15.3`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`HS2_Illusion_Fixes_ᴠ15.3.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
-- [`HS2_API_ᴠ1.20.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`HS2_API_ᴠ1.20.3`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`HS2_ABMX_ᴠ4.4.2.0`](https://github.com/ManlyMarco/ABMX/releases)
-- [`HS2_Material_Editor_ᴠ3.1.1`](https://www.patreon.com/posts/materialeditor-1-51454810)
+- [`HS2_Material_Editor_ᴠ3.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Runtime_Unity_Editor_BepInEx5_v2.4`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`HS2_Deformers_v0.5`](https://github.com/DaintyIL/Illusion_Deformers)
 
@@ -76,25 +81,25 @@
 - [`HS2_HSPE_v2.12.0`](https://www.patreon.com/posts/38673900)
 - [`HS2_Nodes_Constraints_v1.2.1`](https://joan6694.bitbucket.io/)
 - [`HS2_Bones_Framework_v1.4.1`](https://www.patreon.com/posts/41718360)
-- [`HS2_MMDD_v1.4.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
+- [`HS2_MMDD_v2.0`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`HS2_DHH_v1.01`](http://www.mediafire.com/file/c3r9ffcjgcawilq/HS2_DHH_v1.01.rar/file)
 - [`HS2_STUDIO_POV_v1.1.1`](https://github.com/Mantas-2155X/StudioPOV/releases)
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
 - [`HS2_More_Accessories_v1.2.2`](https://www.patreon.com/posts/38995704)
 - [`HS2_Better_AA_v1.6`](https://www.patreon.com/posts/29809884) 
 - [`HS2_Heelz_v1.2.0`](https://www.patreon.com/posts/hs2-heelz-37883459)
-- [`HS2_Animation_Overdrive_v1.1`](https://www.patreon.com/posts/37738615)
-- [`HS2_Animation_Controller_v2.2`](https://www.patreon.com/posts/31229780) 
-- [`HS2_Character_Export_v1.0`](https://www.patreon.com/posts/32434052) 
-- [`HS2_Pose_Folders_v1.0`](https://www.patreon.com/posts/31127973)
-- [`HS2_Pose_Quick_Load_v1.0`](https://www.patreon.com/posts/35871646)
+- [`HS2_Animation_Overdrive_v1.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Animation_Controller_v2.2`](https://github.com/IllusionMods/KK_Plugins) 
+- [`HS2_Character_Export_v1.0`](https://github.com/IllusionMods/KK_Plugins) 
+- [`HS2_Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Graphics_v0.4.1`](https://github.com/ore-/Graphics/releases)
 - [`HS2_Graphics_Plugin_v0.8.1`](https://github.com/OrangeSpork/HS2VR/releases/tag/0.8.1)
-- [`HS2_Studio_Scene_Settings_v1.3`](https://www.patreon.com/posts/studioscenesetti-43797497)
-- [`HS2_FK_IK_v1.1.1`](https://www.patreon.com/posts/fkik-v1-1-1-42751758)
+- [`HS2_Studio_Scene_Settings_v1.3`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_FK_IK_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Unlock_Player_Height_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHeight/releases)
-- [`HS2_Invisible_Body_v1.4`](https://www.patreon.com/posts/438263230)
-- [`HS2_Colliders_v1.2`](https://www.patreon.com/posts/35243498)
+- [`HS2_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Color_Panel_X_Plugin_v1.3.0`](https://mega.nz/file/AJkgSAga#yRyIxYkjBFIWgs2ZdK5nuIpBL8q7V8T51Pg0kRLP8nY)
 - [`HS2_Unlock_Player_H_Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 - [`HS2_Boob_Settings_v1.1.0`](https://github.com/FairBear/HS2_BoobSettings/releases)
@@ -116,8 +121,8 @@
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`HS2_Video_Export_v1.2.1`](https://joan6694.bitbucket.io/)
 - [`HS2_Pregnancy_Plus_ᴠ3.16`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`HS2_Adv_IK_Plugin_v1.6.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases/tag/1.5.5)
+- [`HS2_Adv_IK_Plugin_v1.6.2`](https://github.com/OrangeSpork/AdvIKPlugin/releases/tag/1.6.2)
 - [`HS2_Additional_Accessory_Controls_v1.0.6`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
-- [`HS2_Dynamic_Bone_Editor_v1.0.3`](https://www.patreon.com/posts/48134621)
+- [`HS2_Dynamic_Bone_Editor_v1.0.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Cheat_Tools_v2.10.1`](https://www.patreon.com/posts/37889909)
 - [`HS2 DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
