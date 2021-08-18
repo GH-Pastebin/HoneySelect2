@@ -68,8 +68,8 @@
 - [`HS2_Manager_ᴠ0.17.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`HS2_Illusion_Fixes_ᴠ16.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
-- [`HS2_API_ᴠ1.21`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`HS2_ABMX_ᴠ4.4.2.0`](https://github.com/ManlyMarco/ABMX/releases)
+- [`HS2_API_ᴠ1.22`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`HS2_ABMX_ᴠ4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
 - [`HS2_Material_Editor_ᴠ3.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Runtime_Unity_Editor_BepInEx5_v2.4`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`HS2_Deformers_v0.5`](https://github.com/DaintyIL/Illusion_Deformers)
@@ -127,3 +127,5 @@
 - [`HS2_Cheat_Tools_v2.10.2`](https://www.patreon.com/posts/37889909)
 - [`HS2 DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
 - [`HS2 Girls_Entrance_v1.1`](https://github.com/SpockBauru/SpockPlugins/releases/tag/r2)
+- [`HS_Cloth_Colliders_v1.1.0.0`](https://www.patreon.com/posts/35139324)
+
