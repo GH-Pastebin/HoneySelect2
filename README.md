@@ -115,7 +115,7 @@
 - [`HS2_Height_Bar_v3.3`](https://www.patreon.com/posts/35859949) 
 - [`HS2_Cloth_Colliders_v1.0.1`](https://github.com/ManlyMarco/Illusion_ClothColliders)
 - [`HS2_H_Character_Switcher_v1.2.1`](https://github.com/Mantas-2155X/HCharaSwitcher) 
-- [`HS2_Better_Penetration_v4.2.0`](https://github.com/Animal42069/BetterPenetration) 
+- [`HS2_Better_Penetration_v4.3.0`](https://github.com/Animal42069/BetterPenetration) 
 - [`HS2_Studio_Better_Penetration_v2.2.1`](https://github.com/Animal42069/BetterPenetration/releases/tag/1.0.1) 
 - [`HS2_Renderer_Editor_v1.6.0`](https://www.patreon.com/posts/39556121)
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
