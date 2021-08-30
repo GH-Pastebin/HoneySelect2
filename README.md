@@ -70,7 +70,7 @@
 - [`HS2_Illusion_Overlay_Mods_ᴠ6.0.2`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`HS2_API_ᴠ1.24`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`HS2_ABMX_ᴠ4.4.3`](https://github.com/ManlyMarco/ABMX/releases)
-- [`HS2_Material_Editor_ᴠ3.1.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Material_Editor_ᴠ3.1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Runtime_Unity_Editor_BepInEx5_v2.4`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest) 
 - [`HS2_Deformers_v0.5`](https://github.com/DaintyIL/Illusion_Deformers)
 
