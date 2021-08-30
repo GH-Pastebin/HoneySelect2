@@ -128,3 +128,4 @@
 - [`HS2 DragAndDrop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
 - [`HS2 Girls_Entrance_v1.1`](https://github.com/SpockBauru/SpockPlugins/releases/tag/r2)
 - [`HS2_Cloth_Colliders_v1.1.0.0`](https://www.patreon.com/posts/35139324)
+- [`HS2_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
