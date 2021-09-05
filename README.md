@@ -104,7 +104,7 @@
 - [`HS2_Color_Panel_X_Plugin_v1.3.0`](https://mega.nz/file/AJkgSAga#yRyIxYkjBFIWgs2ZdK5nuIpBL8q7V8T51Pg0kRLP8nY)
 - [`HS2_Unlock_Player_H_Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 - [`HS2_Boob_Settings_v1.1.0`](https://github.com/FairBear/HS2_BoobSettings/releases)
-- [`HS2_Push_Up_v2.1`](https://mikkemods.blogspot.com/2020/07/pushup-plugin-v21-corset-effect.html)
+- [`HS2_Push_Up_v1.3.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Better_H_Scenes_v2.6.2`](https://github.com/Mantas-2155X/BetterHScenes/releases)
 - [`HS2_Quick_Access_Box_v2.4.2`](https://www.patreon.com/posts/38060886) 
 - [`HS2_Browser_Folders_v2.5.2`](https://www.patreon.com/posts/40644638) 
