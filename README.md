@@ -49,7 +49,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.18.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.19.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
 - [`HS2_Subtitles_v2.0.2`](https://github.com/DeathWeasel1337/KK_Plugins/releases/tag/v182)
 - [`HS2_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
