@@ -49,7 +49,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.19.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.20.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
 - [`HS2_Subtitles_v2.0.2`](https://github.com/DeathWeasel1337/KK_Plugins/releases/tag/v182)
 - [`HS2_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
@@ -64,7 +64,7 @@
 - [`BepInEx_ᴠ5.4.15`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r16.7`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r16.7.1`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.5`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`HS2_Illusion_Fixes_ᴠ16.1`](https://github.com/IllusionMods/IllusionFixes/releases)
@@ -86,7 +86,7 @@
 - [`HS2_DHH_v1.01`](http://www.mediafire.com/file/c3r9ffcjgcawilq/HS2_DHH_v1.01.rar/file)
 - [`HS2_STUDIO_POV_v1.1.1`](https://github.com/Mantas-2155X/StudioPOV/releases)
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
-- [`HS2_More_Accessories_v1.2.2`](https://www.patreon.com/posts/38995704)
+- [`HS2_More_Accessories_v2.0.3`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.3)
 - [`HS2_Better_AA_v1.6`](https://www.patreon.com/posts/29809884) 
 - [`HS2_Heelz_v1.2.0`](https://www.patreon.com/posts/hs2-heelz-37883459)
 - [`HS2_Animation_Overdrive_v1.1`](https://github.com/IllusionMods/KK_Plugins)
@@ -130,3 +130,5 @@
 - [`HS2 Girls_Entrance_v1.1`](https://github.com/SpockBauru/SpockPlugins/releases/tag/r2)
 - [`HS2_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`HS2_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
+- [`HS2_Drag_And_Drop_v1.2.4`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.4)
+- [`HS2_Hide_All_UI_v2.3`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3)
