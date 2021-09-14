@@ -131,4 +131,4 @@
 - [`HS2_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
 - [`HS2_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`HS2_Drag_And_Drop_v1.2.4`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.4)
-- [`HS2_Hide_All_UI_v2.3`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3)
+- [`HS2_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
