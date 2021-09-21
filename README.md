@@ -86,7 +86,7 @@
 - [`HS2_DHH_v1.01`](http://www.mediafire.com/file/c3r9ffcjgcawilq/HS2_DHH_v1.01.rar/file)
 - [`HS2_STUDIO_POV_v1.1.1`](https://github.com/Mantas-2155X/StudioPOV/releases)
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
-- [`HS2_More_Accessories_v2.0.4`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.4)
+- [`HS2_More_Accessories_v2.0.6`](https://github.com/jalil49/MoreAccessories/releases/tag/2.0.6)
 - [`HS2_Better_AA_v1.6`](https://www.patreon.com/posts/29809884) 
 - [`HS2_Heelz_v1.2.0`](https://www.patreon.com/posts/hs2-heelz-37883459)
 - [`HS2_Animation_Overdrive_v1.1`](https://github.com/IllusionMods/KK_Plugins)
