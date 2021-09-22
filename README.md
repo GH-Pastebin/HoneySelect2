@@ -71,7 +71,7 @@
 - [`HS2_Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`HS2_API_ᴠ1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`HS2_ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
-- [`HS2_Material_Editor_ᴠ3.1.3`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Material_Editor_ᴠ3.1.6`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Deformers_v0.5`](https://github.com/DaintyIL/Illusion_Deformers)
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 
@@ -132,3 +132,4 @@
 - [`HS2_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`HS2_Drag_And_Drop_v1.2.5`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.4)
 - [`HS2_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
+- [`HS2_Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
