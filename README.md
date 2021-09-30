@@ -38,7 +38,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`HS2_Uncensor_Selector_v3.11.2`](https://www.patreon.com/posts/uncensorselector-50596398)
+- [`HS2_Uncensor_Selector_v3.11.4`](https://www.patreon.com/posts/uncensorselector-50596398)
 
 ---
 **[Latest Game Update]**
@@ -71,7 +71,7 @@
 - [`HS2_Illusion_Overlay_Mods_ᴠ6.0.3`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`HS2_API_ᴠ1.26`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`HS2_ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
-- [`HS2_Material_Editor_ᴠ3.1.8`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Material_Editor_ᴠ3.1.9`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Deformers_v0.5`](https://github.com/DaintyIL/Illusion_Deformers)
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 
@@ -106,10 +106,10 @@
 - [`HS2_Boob_Settings_v1.1.0`](https://github.com/FairBear/HS2_BoobSettings/releases)
 - [`HS2_Push_Up_v1.3.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Better_H_Scenes_v2.6.5`](https://github.com/Mantas-2155X/BetterHScenes/releases)
-- [`HS2_Quick_Access_Box_v2.4.2`](https://www.patreon.com/posts/38060886) 
-- [`HS2_Browser_Folders_v2.5.2`](https://www.patreon.com/posts/40644638) 
+- [`HS2_Quick_Access_Box_v2.4.3`](https://www.patreon.com/posts/38060886) 
+- [`HS2_Browser_Folders_v2.6.0`](https://www.patreon.com/posts/40644638) 
 - [`HS2_Specter_v0.1`](https://ux.getuploader.com/moistened_eye/download/132) 
-- [`HS2_VN_Game_Engine_v30.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
+- [`HS2_VN_Game_Engine_v31.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 - [`HS2_H_Light_Control_v1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`HS2_Move_Controller_v1.7`](https://mikkemods.blogspot.com/)
 - [`HS2_Beaver_Plugin_v1.2.2 `](https://mikkemods.blogspot.com/2020/09/beaver-plugin-122.html)
@@ -132,6 +132,6 @@
 - [`HS2_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`HS2_Drag_And_Drop_v1.2.5`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.4)
 - [`HS2_Hide_All_UI_v2.3.1`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
-- [`HS2_Subtitles_v2.3`](https://github.com/IllusionMods/KK_Plugins#readme)
-- [`HS2_Studio_Custom_Masking_v1.1`](https://github.com/IllusionMods/KK_Plugins)
-- 
+- [`HS2_Subtitles_v2.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`HS2_Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
