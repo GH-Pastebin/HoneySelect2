@@ -70,7 +70,7 @@
 - [`HS2_Illusion_Fixes_ᴠ18.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`HS2_API_ᴠ1.27`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
-- [`HS2_ABMX_ᴠ4.4.4`](https://github.com/ManlyMarco/ABMX/releases)
+- [`HS2_ABMX_ᴠ4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`HS2_Material_Editor_ᴠ3.1.10`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Deformers_v0.5`](https://github.com/DaintyIL/Illusion_Deformers)
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
