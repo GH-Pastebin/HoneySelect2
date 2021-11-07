@@ -49,7 +49,7 @@
 ---
 **[English Translation]**
 --
-- [`XUnity.AutoTranslator-BepIn-5x-4.20.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.AutoTranslator-BepIn-5x-4.20.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
 - [`HS2_Subtitles_v2.0.2`](https://github.com/DeathWeasel1337/KK_Plugins/releases/tag/v182)
 - [`HS2_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
@@ -69,7 +69,7 @@
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`HS2_Illusion_Fixes_ᴠ18.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_Illusion_Overlay_Mods_ᴠ6.0.4`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
-- [`HS2_API_ᴠ1.28`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`HS2_API_ᴠ1.28.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`HS2_ABMX_ᴠ4.4.5`](https://github.com/ManlyMarco/ABMX/releases)
 - [`HS2_Material_Editor_ᴠ3.1.10`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Deformers_v0.5`](https://github.com/DaintyIL/Illusion_Deformers)
@@ -121,11 +121,11 @@
 - [`HS2_Renderer_Editor_v1.6.0`](https://www.patreon.com/posts/39556121)
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`HS2_Video_Export_v1.2.1`](https://joan6694.bitbucket.io/)
-- [`HS2_Pregnancy_Plus_ᴠ5.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`HS2_Pregnancy_Plus_ᴠ5.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`HS2_Adv_IK_Plugin_v1.6.5`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`HS2_Additional_Accessory_Controls_v1.2.0`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`HS2_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_Cheat_Tools_v3.0`](https://www.patreon.com/posts/37889909)
+- [`HS2_Cheat_Tools_v3.1`](https://www.patreon.com/posts/37889909)
 - [`HS2 Drag_And_Drop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
 - [`HS2 Girls_Entrance_v1.1`](https://github.com/SpockBauru/SpockPlugins/releases/tag/r2)
 - [`HS2_Maker_Search_v1.5.0`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.0)
