@@ -5,7 +5,7 @@
 --
 
 ---
-![Paypal](https://i.imgur.com/3V57ymK.png") [`Donate`](https://paypal.me/PastebinSupport?locale.x=en_US)
+![Paypal](https://i.imgur.com/3V57ymK.png") [`Donate, Help & Support`](https://paypal.me/PastebinSupport?locale.x=en_US)
 --
 
 ---
