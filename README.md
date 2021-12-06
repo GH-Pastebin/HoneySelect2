@@ -123,7 +123,7 @@
 - [`HS2_Video_Export_v1.2.1`](https://joan6694.bitbucket.io/)
 - [`HS2_Pregnancy_Plus_ᴠ5.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`HS2_Adv_IK_Plugin_v1.6.5`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
-- [`HS2_Additional_Accessory_Controls_v1.2.0`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
+- [`HS2_Additional_Accessory_Controls_v1.2.2`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`HS2_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Cheat_Tools_v3.1`](https://www.patreon.com/posts/37889909)
 - [`HS2 Drag_And_Drop_v1.2.3`](https://github.com/IllusionMods/DragAndDrop)
