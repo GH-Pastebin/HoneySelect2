@@ -59,7 +59,7 @@
 - [`XUnity.Auto_Translator-BepIn-5x-4.20.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 --- 
-**[Recommended Plugins]**
+**[Recommended Mod Plugins]**
 --
 - [`BepInEx_ᴠ5.4.18`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
@@ -71,7 +71,7 @@
 - [`HS2_API_ᴠ1.29.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
-**[Utility Plugins]**
+**[Utility Mod Plugins]**
 --
 
 [A]
