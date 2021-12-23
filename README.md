@@ -36,7 +36,7 @@
 - [`Booru`](https://kenzato.uk/booru/)
 
 ---
-**[Female & Male Uncensor]**
+**[Female & Male Uncensor Mod]**
 --
 - [`HS2_Uncensor_Selector_v3.11.5`](https://github.com/IllusionMods/KK_Plugins)
 
