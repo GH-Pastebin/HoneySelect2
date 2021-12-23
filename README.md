@@ -55,7 +55,7 @@
 - [`HS2_English_Translation_Alpha_v0.01`](http://www.mediafire.com/file/eb71lfw9pfgqtht/HS2_English_Translation_Alpha_v0.01.7z/file)
 - [`HS2_DX_English_Translation_v4.0`](https://github.com/IllusionMods/HS2-Translation/releases/tag/v3)
 - [`HS2_Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
-- [`HS2_Translation_v0.5_Final_Version (10/10/2020`](https://bit.ly/2GUPs4g)
+- [`HS2_Translation_v0.5_Final_Version (10/10/2020)`](https://bit.ly/2GUPs4g)
 - [`XUnity.Auto_Translator-BepIn-5x-4.20.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 --- 
