@@ -49,7 +49,7 @@
 ---
 **[English Translation]**
 --
-- [`HS2_Launcher_v3.2.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`HS2_English_Launcher_v3.2.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`HS2_Subtitles_v2.0.2`](https://github.com/DeathWeasel1337/KK_Plugins/releases/tag/v182)
 - [`HS2_English_Translation_Alpha_v0.01`](http://www.mediafire.com/file/eb71lfw9pfgqtht/HS2_English_Translation_Alpha_v0.01.7z/file)
 - [`HS2_DX_English_Translation_v4.0`](https://github.com/IllusionMods/HS2-Translation/releases/tag/v3)
