@@ -182,7 +182,7 @@
 
 [S]
 --
-- [`HS2_STUDIO_POV_v1.1.1`](https://github.com/Mantas-2155X/StudioPOV/releases)
+- [`HS2_Studio_POV_v1.1.1`](https://github.com/Mantas-2155X/StudioPOV/releases)
 - [`HS2_Studio_Scene_Settings_v1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Specter_v0.1`](https://ux.getuploader.com/moistened_eye/download/132)
 - [`HS2_Subtitles_v2.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
