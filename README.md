@@ -38,7 +38,7 @@
 ---
 **[Female & Male Uncensor]**
 --
-- [`HS2_Uncensor_Selector_v3.11.5`](https://www.patreon.com/posts/uncensorselector-50596398)
+- [`HS2_Uncensor_Selector_v3.11.5`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Latest Game Update]**
@@ -52,9 +52,9 @@
 - [`XUnity.AutoTranslator-BepIn-5x-4.20.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 - [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
 - [`HS2_Subtitles_v2.0.2`](https://github.com/DeathWeasel1337/KK_Plugins/releases/tag/v182)
-- [`HS2_Launcher_v3.1.1`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`HS2_Launcher_v3.2.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`HS2_English_Translation_Alpha_v0.01`](http://www.mediafire.com/file/eb71lfw9pfgqtht/HS2_English_Translation_Alpha_v0.01.7z/file)
-- [`HS2_DX_English_Translation_v3.0`](https://github.com/IllusionMods/HS2-Translation/releases/tag/v3)
+- [`HS2_DX_English_Translation_v4.0`](https://github.com/IllusionMods/HS2-Translation/releases/tag/v3)
 - [`HS2_Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`HS2_Translation_v0.5_Final_Version`](https://bit.ly/2GUPs4g)
 
@@ -72,7 +72,7 @@
 - [`HS2_API_ᴠ1.29.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 - [`HS2_ABMX_ᴠ4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
 - [`HS2_Material_Editor_ᴠ3.1.11`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_Deformers_v0.5`](https://github.com/DaintyIL/Illusion_Deformers)
+- [`HS2_Deformers_v0.6`](https://github.com/DaintyIL/Illusion_Deformers)
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 
 ---
@@ -95,7 +95,7 @@
 - [`HS2_Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Graphics_v0.3.3`](https://github.com/ore-/Graphics/releases)
-- [`HS2_Graphics_Plugin_v0.4.5`](https://github.com/OrangeSpork/Graphics/releases)
+- [`HS2_Graphics_Plugin_v0.4.9`](https://github.com/OrangeSpork/Graphics/releases)
 - [`HS2_Studio_Scene_Settings_v1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_FK_IK_v1.1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Unlock_Player_Height_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHeight/releases)
@@ -112,27 +112,26 @@
 - [`HS2_VN_Game_Engine_v33.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 - [`HS2_H_Light_Control_v1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`HS2_Move_Controller_v1.7`](https://mikkemods.blogspot.com/)
-- [`HS2_Beaver_Plugin_v1.2.2 `](https://mikkemods.blogspot.com/2020/09/beaver-plugin-122.html)
+- [`HS2_Beaver_Plugin_v1.2.2 `](https://mikkemods.blogspot.com/)
 - [`HS2_Height_Bar_v3.4`](https://www.patreon.com/posts/35859949) 
 - [`HS2_Cloth_Colliders_v1.1`](https://github.com/ManlyMarco/Illusion_ClothColliders)
 - [`HS2_H_Character_Switcher_v1.2.1`](https://github.com/Mantas-2155X/HCharaSwitcher) 
 - [`HS2_Better_Penetration_v4.5.0`](https://github.com/Animal42069/BetterPenetration) 
-- [`HS2_Studio_Better_Penetration_v2.2.1`](https://github.com/Animal42069/BetterPenetration/releases/tag/1.0.1) 
 - [`HS2_Renderer_Editor_v1.6.0`](https://www.patreon.com/posts/39556121)
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`HS2_Video_Export_v1.2.1`](https://joan6694.bitbucket.io/)
-- [`HS2_Pregnancy_Plus_ᴠ5.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`HS2_Adv_IK_Plugin_v1.6.7`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
-- [`HS2_Additional_Accessory_Controls_v1.2.3`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
+- [`HS2_Pregnancy_Plus_ᴠ5.5`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`HS2_Adv_IK_Plugin_v1.6.8`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
+- [`HS2_Additional_Accessory_Controls_v1.2.4`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`HS2_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Cheat_Tools_v3.1.1`](https://www.patreon.com/posts/37889909)
 - [`HS2 Girls_Entrance_v1.1`](https://github.com/SpockBauru/SpockPlugins/releases/tag/r2)
 - [`HS2_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`HS2_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`HS2_Drag_And_Drop_v1.2.7`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.7)
-- [`HS2_Hide_All_UI_v2.3.2`](https://github.com/IllusionMods/HideAllUI/releases/tag/v2.3.1)
+- [`HS2_Hide_All_UI_v2.3.2`](https://github.com/IllusionMods/HideAllUI)
 - [`HS2_Subtitles_v2.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`HS2_Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
-- [`HS2_Chain_Lighting_v1.0.0`](https://github.com/OrangeSpork/ChainLighting/releases)
+- [`HS2_Chain_Lighting_v1.0.1`](https://github.com/OrangeSpork/ChainLighting/releases)
