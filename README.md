@@ -43,8 +43,8 @@
 ---
 **[Latest Game Update]**
 --
-- [`honey2_01_plus_0814esF3_all`](https://ai-shoujo.com/download/update/HS2/official/honey2_01_plus_0814esF3_all.exe) 
-- [`honey2dx_01_plus_0115hA5HG_all`](https://ai-shoujo.com/download/update/HS2DX/official/honey2dx_01_plus_0115hA5HG_all.exe) 
+- [`honey2_01_plus_0814esF3_all`](https://ai-shoujo.com/download/update/HS2/official/honey2_01_plus_0814esF3_all.exe) - `(10/20/2020)`
+- [`honey2dx_01_plus_0115hA5HG_all`](https://ai-shoujo.com/download/update/HS2DX/official/honey2dx_01_plus_0115hA5HG_all.exe) - `(01/16/2021)`
 
 ---
 **[English Translation]**
