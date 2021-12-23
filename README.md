@@ -119,7 +119,7 @@
 --
 - [`HS2_Graphics_v0.3.3`](https://github.com/ore-/Graphics/releases)
 - [`HS2_Graphics_Plugin_v0.4.9`](https://github.com/OrangeSpork/Graphics/releases)
-- [`HS2 Girls_Entrance_v1.1`](https://github.com/SpockBauru/SpockPlugins/releases/tag/r2)
+- [`HS2_Girls_Entrance_v1.1`](https://github.com/SpockBauru/SpockPlugins/releases/tag/r2)
 
 [H]
 --
