@@ -133,7 +133,7 @@
 
 [I]
 --
-- [`HS2_Illusion_Overlay_Mods_ᴠ6.0.6`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
+- [`HS2_Illusion_Overlay_Mods_ᴠ6.0.7`](https://github.com/ManlyMarco/Illusion-Overlay-Mods/releases/)
 - [`HS2_Invisible_Body_v1.4`](https://github.com/IllusionMods/KK_Plugins)
 
 [J]
