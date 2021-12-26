@@ -55,7 +55,7 @@
 - [`HS2_Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`HS2_Translation_v0.5_Final_Version (10/10/2020)`](https://bit.ly/2GUPs4g)
 - [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
-- [`XUnity.Auto_Translator-BepIn-5x-4.20.1`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.Auto_Translator-BepIn-5x-4.21.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 --- 
 **[Recommended Mod Plugins]**
@@ -99,6 +99,7 @@
 - [`HS2_Cloth_Colliders_v1.1`](https://github.com/ManlyMarco/Illusion_ClothColliders)
 - [`HS2_Cheat_Tools_v3.1.1`](https://www.patreon.com/posts/37889909)
 - [`HS2_Chain_Lighting_v1.0.1`](https://github.com/OrangeSpork/ChainLighting/releases)
+- [`HS2_Character_Replacer_ᴠ1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
 
 [D]
 --
@@ -147,7 +148,7 @@
 
 [M]
 --
-- [`HS2_Material_Editor_ᴠ3.1.11`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Material_Editor_ᴠ3.1.12`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_MMDD_v2.3.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`HS2_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`HS2_Move_Controller_v1.7`](https://mikkemods.blogspot.com/)
