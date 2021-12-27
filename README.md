@@ -200,7 +200,7 @@
 
 [V]
 --
-- [`HS2_VN_Game_Engine_v33.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
+- [`HS2_VN_Game_Engine_v34.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 - [`HS2_Video_Export_v1.2.1`](https://joan6694.bitbucket.io/)
 
 [W]
