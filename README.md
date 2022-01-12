@@ -66,7 +66,7 @@
 - [`BepInEx.Plugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`HS2_Illusion_Fixes_ᴠ19.0`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`HS2_Illusion_Fixes_ᴠ19.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_API_ᴠ1.30.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
@@ -118,7 +118,7 @@
 [G]
 --
 - [`HS2_Graphics_v0.3.3`](https://github.com/ore-/Graphics/releases)
-- [`HS2_Graphics_Plugin_v0.5.0`](https://github.com/OrangeSpork/Graphics/releases)
+- [`HS2_Graphics_Plugin_v0.5.1`](https://github.com/OrangeSpork/Graphics/releases)
 - [`HS2_Girls_Entrance_v1.1`](https://github.com/SpockBauru/SpockPlugins/releases/tag/r2)
 
 [H]
