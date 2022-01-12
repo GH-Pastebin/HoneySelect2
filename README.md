@@ -76,7 +76,7 @@
 [A]
 --
 - [`HS2_ABMX_ᴠ4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
-- [`HS2_Additional_Accessory_Controls_v1.2.4`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
+- [`HS2_Additional_Accessory_Controls_v1.2.5`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`HS2_Adv_IK_Plugin_v1.6.8`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`HS2_Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Animation_Overdrive_v1.1`](https://github.com/IllusionMods/KK_Plugins)
@@ -155,7 +155,7 @@
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`HS2_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`HS2_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
-- [`HS2_Moar_Camz_Plugin_v1.0.7`](https://github.com/OrangeSpork/MoarCamz)
+- [`HS2_Moar_Camz_Plugin_v1.0.8`](https://github.com/OrangeSpork/MoarCamz)
 
 [N]
 --
@@ -171,6 +171,7 @@
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
 - [`HS2_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Pregnancy_Plus_ᴠ5.5`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`HS2_Outfit_Painter_v1.0.1`](https://github.com/OrangeSpork/OutfitPainter/releases)
 
 [Q]
 --
