@@ -163,6 +163,7 @@
 
 [O]
 --
+- [`HS2_Outfit_Painter_v1.0.1`](https://github.com/OrangeSpork/OutfitPainter/releases)
 
 [P]
 --
@@ -171,7 +172,6 @@
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
 - [`HS2_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Pregnancy_Plus_ᴠ5.5`](https://github.com/thojmr/KK_PregnancyPlus/releases)
-- [`HS2_Outfit_Painter_v1.0.1`](https://github.com/OrangeSpork/OutfitPainter/releases)
 
 [Q]
 --
