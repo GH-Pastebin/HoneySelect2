@@ -55,7 +55,7 @@
 - [`HS2_Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`HS2_Translation_v0.5_Final_Version_10/10/2020`](https://bit.ly/2GUPs4g)
 - [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
-- [`XUnity.Auto_Translator-BepIn-5x-4.21.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.Auto_Translator-BepIn-5x-5.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 --- 
 **[Recommended Mod Plugins]**
@@ -67,7 +67,7 @@
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`HS2_Illusion_Fixes_ᴠ19.1`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`HS2_API_ᴠ1.30.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`HS2_API_ᴠ1.31.1`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
 **[Utility Mod Plugins]**
