@@ -54,7 +54,7 @@
 - [`HS2_DX_English_Translation_v4.0`](https://github.com/IllusionMods/HS2-Translation/releases/tag/v3)
 - [`HS2_Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`HS2_Translation_v0.5_Final_Version_10/10/2020`](https://bit.ly/2GUPs4g)
-- [`HS2_Text_Resource_Redirector_v1.4.4`](https://github.com/IllusionMods/TranslationTools/releases/tag/r20)
+- [`HS2_Text_Resource_Redirector_v1.4.4.3`](https://github.com/IllusionMods/TranslationTools)
 - [`XUnity.Auto_Translator-BepIn-5x-5.0.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 --- 
