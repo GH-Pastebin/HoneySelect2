@@ -126,7 +126,7 @@
 - [`HS2_HSUS_v1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
 - [`HS2_HSPE_v2.12.0`](https://www.patreon.com/posts/38673900)
 - [`HS2_Heelz_v1.2.0`](https://www.patreon.com/posts/hs2-heelz-37883459)
-- [`HS2_H_Light_Control_v1.2.4`](https://github.com/Mantas-2155X/HLightControl/releases)
+- [`HS2_H_Light_Control_v1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`HS2_Height_Bar_v3.4`](https://www.patreon.com/posts/35859949) 
 - [`HS2_H_Character_Switcher_v1.2.1`](https://github.com/Mantas-2155X/HCharaSwitcher) 
 - [`HS2_Hide_All_UI_v2.3.2`](https://github.com/IllusionMods/HideAllUI)
@@ -197,7 +197,7 @@
 [U]
 --
 - [`HS2_Unlock_Player_Height_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHeight/releases)
-- [`HS2_Unlock_Player_H_Clothes_v1.4.3`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
+- [`HS2_Unlock_Player_H_Clothes_v1.4.4`](https://github.com/Mantas-2155X/UnlockPlayerHClothes/releases)
 
 [V]
 --
