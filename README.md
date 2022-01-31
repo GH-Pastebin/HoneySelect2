@@ -123,14 +123,15 @@
 
 [H]
 --
-- [`HS2_HSUS_v1.9.0`](https://www.patreon.com/posts/hs-kk-ai-hs2-1-9-38675642)
-- [`HS2_HSPE_v2.12.0`](https://www.patreon.com/posts/38673900)
+- [`HS2_HSUS_v1.11`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
+- [`HS2_HSPE_v2.13.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 - [`HS2_Heelz_v1.2.0`](https://www.patreon.com/posts/hs2-heelz-37883459)
 - [`HS2_H_Light_Control_v1.2.5`](https://github.com/Mantas-2155X/HLightControl/releases)
 - [`HS2_Height_Bar_v3.4`](https://www.patreon.com/posts/35859949) 
 - [`HS2_H_Character_Switcher_v1.2.1`](https://github.com/Mantas-2155X/HCharaSwitcher) 
 - [`HS2_Hide_All_UI_v2.3.2`](https://github.com/IllusionMods/HideAllUI)
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
+- [`HS2_Hooh_Hooah_Mutation`](https://www.patreon.com/posts/hooah-mutation-61897192)
 
 [I]
 --
@@ -159,7 +160,7 @@
 
 [N]
 --
-- [`HS2_Nodes_Constraints_v1.2.1`](https://joan6694.bitbucket.io/)
+- [`HS2_Nodes_Constraints_v1.2.2`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [O]
 --
@@ -171,7 +172,7 @@
 - [`HS2_Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
 - [`HS2_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_Pregnancy_Plus_ᴠ6.1`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`HS2_Pregnancy_Plus_ᴠ6.2`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 
 [Q]
 --
@@ -193,6 +194,7 @@
 
 [T]
 --
+- [`HS2_Timeline_v1.1.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [U]
 --
@@ -202,7 +204,7 @@
 [V]
 --
 - [`HS2_VN_Game_Engine_v34.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
-- [`HS2_Video_Export_v1.2.1`](https://joan6694.bitbucket.io/)
+- [`HS2_Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [W]
 --
