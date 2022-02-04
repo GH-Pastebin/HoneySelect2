@@ -132,6 +132,7 @@
 - [`HS2_Hide_All_UI_v2.3.2`](https://github.com/IllusionMods/HideAllUI)
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 - [`HS2_Hooh_Hooah_Mutation`](https://www.patreon.com/posts/hooah-mutation-61897192)
+- [`HS2_Hooh_Hooah_v2.2.2`](https://www.patreon.com/posts/hooah-2-2-2-62047922)
 
 [I]
 --
@@ -149,7 +150,7 @@
 
 [M]
 --
-- [`HS2_Material_Editor_ᴠ3.1.12`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Material_Editor_ᴠ3.1.14`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_MMDD_v2.3.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`HS2_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`HS2_Move_Controller_v1.7`](https://mikkemods.blogspot.com/)
