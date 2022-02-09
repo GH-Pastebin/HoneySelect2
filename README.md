@@ -156,7 +156,7 @@
 - [`HS2_Move_Controller_v1.7`](https://mikkemods.blogspot.com/)
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`HS2_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
-- [`HS2_Mod_Bone_Implantor_v1.1.1`](https://github.com/IllusionMods/ModBoneImplantor)
+- [`HS2_Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
 - [`HS2_Moar_Camz_Plugin_v1.0.8`](https://github.com/OrangeSpork/MoarCamz)
 
 [N]
