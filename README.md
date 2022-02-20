@@ -63,7 +63,7 @@
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r16.9.2`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r17.0`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`HS2_Illusion_Fixes_ᴠ19.1`](https://github.com/IllusionMods/IllusionFixes/releases)
@@ -170,10 +170,11 @@
 [P]
 --
 - [`HS2_Pose_Folders_v1.0`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_Pose_Quick_Load_v1.0`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Pose_Quick_Load_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
 - [`HS2_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Pregnancy_Plus_ᴠ6.3`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`HS2_Pose_Tools_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 
 [Q]
 --
