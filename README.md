@@ -66,7 +66,7 @@
 - [`BepInEx.Plugins_r17.0`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`HS2_Illusion_Fixes_ᴠ19.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`HS2_Illusion_Fixes_ᴠ19.2`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_API_ᴠ1.31.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
