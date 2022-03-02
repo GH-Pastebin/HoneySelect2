@@ -114,6 +114,7 @@
 [F]
 --
 - [`HS2_FK_IK_v1.1.3`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_FK_Height_Adjust_UI_v1.0.3`](https://github.com/OrangeSpork/FKHeightAdjustUI/releases)
 
 [G]
 --
@@ -133,6 +134,7 @@
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 - [`HS2_Hooh_Hooah_Mutation`](https://www.patreon.com/posts/hooah-mutation-61897192)
 - [`HS2_Hooh_Hooah_v2.2.2`](https://www.patreon.com/posts/hooah-2-2-2-62047922)
+- [`HS2_HS_Plugins_2022.03.01`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2.1)
 
 [I]
 --
