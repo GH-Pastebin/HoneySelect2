@@ -63,10 +63,10 @@
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r18.0`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r18.0.1`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`HS2_Illusion_Fixes_ᴠ19.2`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`HS2_Illusion_Fixes_ᴠ19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_API_ᴠ1.31.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
