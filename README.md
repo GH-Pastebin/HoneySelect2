@@ -83,7 +83,7 @@
 
 [B]
 --
-- [`HS2_Better_Penetration_v4.5.0`](https://github.com/Animal42069/BetterPenetration) 
+- [`HS2_Better_Penetration_v5.0.0.3`](https://github.com/Animal42069/BetterPenetration) 
 - [`HS2_Bones_Framework_v1.4.1`](https://www.patreon.com/posts/41718360)
 - [`HS2_Better_AA_v1.6`](https://www.patreon.com/posts/29809884) 
 - [`HS2_Boob_Settings_v1.1.0`](https://github.com/FairBear/HS2_BoobSettings/releases)
