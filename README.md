@@ -64,11 +64,11 @@
 - [`BepInEx_ᴠ5.4.19`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ16.4`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r18.0.1`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
 - [`HS2_Illusion_Fixes_ᴠ19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
-- [`HS2_API_ᴠ1.31.2`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
+- [`HS2_API_ᴠ1.32`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
 **[Utility Mod Plugins]**
@@ -176,7 +176,7 @@
 - [`HS2_Pose_Quick_Load_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
 - [`HS2_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_Pregnancy_Plus_ᴠ6.5`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`HS2_Pregnancy_Plus_ᴠ6.6`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`HS2_Pose_Tools_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 
 [Q]
@@ -192,10 +192,9 @@
 - [`HS2_Studio_POV_v1.1.1`](https://github.com/Mantas-2155X/StudioPOV/releases)
 - [`HS2_Studio_Scene_Settings_v1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Specter_v0.1`](https://ux.getuploader.com/moistened_eye/download/132)
-- [`HS2_Subtitles_v2.3.1`](https://github.com/IllusionMods/KK_Plugins#readme)
+- [`HS2_Subtitles_v2.3.2`](https://github.com/IllusionMods/KK_Plugins#readme)
 - [`HS2_Studio_Custom_Masking_v1.1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Studio_Image_Embed_v1.0.2`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_Subtitles_v2.0.2`](https://github.com/DeathWeasel1337/KK_Plugins/releases/tag/v182)
 
 [T]
 --
