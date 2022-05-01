@@ -154,7 +154,7 @@
 [M]
 --
 - [`HS2_Material_Editor_ᴠ3.1.14`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_MMDD_v2.3.1`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
+- [`HS2_MMDD_v2.4`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`HS2_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`HS2_Move_Controller_v1.7`](https://mikkemods.blogspot.com/)
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
@@ -176,7 +176,7 @@
 - [`HS2_Pose_Quick_Load_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
 - [`HS2_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_Pregnancy_Plus_ᴠ6.6`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`HS2_Pregnancy_Plus_ᴠ6.8`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`HS2_Pose_Tools_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 
 [Q]
@@ -207,7 +207,7 @@
 
 [V]
 --
-- [`HS2_VN_Game_Engine_v36.6`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
+- [`HS2_VN_Game_Engine_v37.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 - [`HS2_Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [W]
