@@ -176,7 +176,7 @@
 - [`HS2_Pose_Quick_Load_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_POVX_v1.1.1`](https://github.com/FairBear/HS2_PovX/releases/tag/v1.1.1)
 - [`HS2_Push_Up_v1.3.2`](https://github.com/IllusionMods/KK_Plugins)
-- [`HS2_Pregnancy_Plus_ᴠ6.11`](https://github.com/thojmr/KK_PregnancyPlus/releases)
+- [`HS2_Pregnancy_Plus_ᴠ7.0`](https://github.com/thojmr/KK_PregnancyPlus/releases)
 - [`HS2_Pose_Tools_v1.1`](https://github.com/IllusionMods/KK_Plugins)
 
 [Q]
