@@ -147,6 +147,7 @@
 
 [K]
 --
+- [`HS2_Keel_Plugins_v2022.05.28`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-270)
 
 [L]
 --
