@@ -67,7 +67,7 @@
 - [`BepInEx.Plugins_r18.2`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v2.6.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.18.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`HS2_Illusion_Fixes_ᴠ19.3`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`HS2_Illusion_Fixes_ᴠ20.0`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_API_ᴠ1.32`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
@@ -135,7 +135,7 @@
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 - [`HS2_Hooh_Hooah_Mutation`](https://www.patreon.com/posts/hooah-mutation-61897192)
 - [`HS2_Hooh_Hooah_v2.2.2`](https://www.patreon.com/posts/hooah-2-2-2-62047922)
-- [`HS2_HS_Plugins_2022.03.01`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2.1)
+- [`HS2_HS_Plugins_v2022.06.05`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
