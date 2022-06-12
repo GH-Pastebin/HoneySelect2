@@ -101,6 +101,7 @@
 - [`HS2_Cheat_Tools_v3.1.1`](https://www.patreon.com/posts/37889909)
 - [`HS2_Chain_Lighting_v1.0.1`](https://github.com/OrangeSpork/ChainLighting/releases)
 - [`HS2_Character_Replacer_ᴠ1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
+- [`HS2_Character_Loader_v1.4.2`](https://mikkemods.blogspot.com/)
 
 [D]
 --
@@ -157,7 +158,7 @@
 - [`HS2_Material_Editor_ᴠ3.1.14`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_MMDD_v2.4`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`HS2_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
-- [`HS2_Move_Controller_v1.7`](https://mikkemods.blogspot.com/)
+- [`HS2_Move_Controller_v1.7.5`](https://mikkemods.blogspot.com/)
 - [`HS2_Maker_Additions_v1.0.0`](https://github.com/Mantas-2155X/MakerAdditions)
 - [`HS2_Maker_Search_v1.5.1`](https://github.com/Mantas-2155X/MakerSearch/releases/tag/v1.5.1)
 - [`HS2_Mod_Bone_Implantor_v1.1.2`](https://github.com/IllusionMods/ModBoneImplantor)
