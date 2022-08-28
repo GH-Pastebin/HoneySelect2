@@ -210,7 +210,7 @@
 
 [V]
 --
-- [`HS2_VN_Game_Engine_v37.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
+- [`HS2_VN_Game_Engine_v38.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 - [`HS2_Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [W]
