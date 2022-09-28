@@ -137,7 +137,7 @@
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 - [`HS2_Hooh_Hooah_Mutation`](https://www.patreon.com/posts/hooah-mutation-61897192)
 - [`HS2_Hooh_Hooah_v2.2.2`](https://www.patreon.com/posts/hooah-2-2-2-62047922)
-- [`HS2_HS_Plugins_v2022.06.05`](https://github.com/IllusionMods/HSPlugins/releases)
+- [`HS2_HS_Plugins_v2022.09.26`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
@@ -210,7 +210,7 @@
 
 [V]
 --
-- [`HS2_VN_Game_Engine_v38.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
+- [`HS2_VN_Game_Engine_v39.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 - [`HS2_Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [W]
