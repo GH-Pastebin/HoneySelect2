@@ -76,7 +76,7 @@
 
 [A]
 --
-- [`HS2_ABMX_ᴠ4.4.6`](https://github.com/ManlyMarco/ABMX/releases)
+- [`HS2_ABMX_ᴠ5.0.0`](https://github.com/ManlyMarco/ABMX/releases)
 - [`HS2_Additional_Accessory_Controls_v1.2.5`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`HS2_Adv_IK_Plugin_v1.7.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`HS2_Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins)
