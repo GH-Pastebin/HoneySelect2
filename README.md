@@ -64,10 +64,10 @@
 - [`BepInEx_ᴠ5.4.21`](https://github.com/BepInEx/BepInEx/releases)
 - [`BepInEx.Configuration_Manager_ᴠ17.1`](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases)
 - [`BepInEx.Message_Center_ᴠ1.1.1`](https://github.com/BepInEx/MessageCenter/releases)
-- [`BepInEx.Plugins_r19.0.2`](https://github.com/IllusionMods/BepisPlugins/releases)
-- [`Runtime_Unity_Editor_BepInEx5_v3.0.0`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
+- [`BepInEx.Plugins_r19.1`](https://github.com/IllusionMods/BepisPlugins/releases)
+- [`Runtime_Unity_Editor_BepInEx5_v4.0.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.19.0`](https://github.com/IllusionMods/KKManager/releases)
-- [`HS2_Illusion_Fixes_ᴠ20.1`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`HS2_Illusion_Fixes_ᴠ20.2`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_API_ᴠ1.33`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
@@ -98,7 +98,7 @@
 - [`HS2_Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Color_Panel_X_Plugin_v1.3.0`](https://mega.nz/file/AJkgSAga#yRyIxYkjBFIWgs2ZdK5nuIpBL8q7V8T51Pg0kRLP8nY)
 - [`HS2_Cloth_Colliders_v1.1`](https://github.com/ManlyMarco/Illusion_ClothColliders)
-- [`HS2_Cheat_Tools_v3.1.1`](https://www.patreon.com/posts/37889909)
+- [`HS2_Cheat_Tools_v3.2.0`](https://www.patreon.com/posts/37889909)
 - [`HS2_Chain_Lighting_v1.0.1`](https://github.com/OrangeSpork/ChainLighting/releases)
 - [`HS2_Character_Replacer_ᴠ1.6.3`](https://github.com/IllusionMods/CharacterReplacer/releases)
 - [`HS2_Character_Loader_v1.4.2`](https://mikkemods.blogspot.com/)
@@ -136,7 +136,7 @@
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 - [`HS2_Hooh_Hooah_Mutation`](https://www.patreon.com/posts/hooah-mutation-61897192)
 - [`HS2_Hooh_Hooah_v2.2.2`](https://www.patreon.com/posts/hooah-2-2-2-62047922)
-- [`HS2_HS_Plugins_v2022.09.26`](https://github.com/IllusionMods/HSPlugins/releases)
+- [`HS2_HS_Plugins_v2022.11.12`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
@@ -148,7 +148,7 @@
 
 [K]
 --
-- [`HS2_Keel_Plugins_v2022.05.28`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-270)
+- [`HS2_Keel_Plugins_v2022.11.09`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-270)
 
 [L]
 --
