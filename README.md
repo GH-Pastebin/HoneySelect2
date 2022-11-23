@@ -76,7 +76,7 @@
 
 [A]
 --
-- [`HS2_ABMX_ᴠ5.0.0`](https://github.com/ManlyMarco/ABMX/releases)
+- [`HS2_ABMX_ᴠ5.0.1`](https://github.com/ManlyMarco/ABMX/releases)
 - [`HS2_Additional_Accessory_Controls_v1.2.5`](https://github.com/OrangeSpork/AdditionalAccessoryControls/releases)
 - [`HS2_Adv_IK_Plugin_v1.7.0`](https://github.com/OrangeSpork/AdvIKPlugin/releases)
 - [`HS2_Animation_Controller_v2.3`](https://github.com/IllusionMods/KK_Plugins)
@@ -155,7 +155,7 @@
 
 [M]
 --
-- [`HS2_Material_Editor_ᴠ3.1.20`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Material_Editor_ᴠ3.1.21`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_MMDD_v2.4`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`HS2_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`HS2_Move_Controller_v1.8`](https://mikkemods.blogspot.com/)
