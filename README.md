@@ -136,7 +136,7 @@
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 - [`HS2_Hooh_Hooah_Mutation`](https://www.patreon.com/posts/hooah-mutation-61897192)
 - [`HS2_Hooh_Hooah_v2.2.2`](https://www.patreon.com/posts/hooah-2-2-2-62047922)
-- [`HS2_HS_Plugins_v2022.11.12`](https://github.com/IllusionMods/HSPlugins/releases)
+- [`HS2_HS_Plugins_v2022.11.23`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
