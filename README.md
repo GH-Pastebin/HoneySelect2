@@ -39,7 +39,7 @@
 ---
 **[Female & Male Uncensor Mod]**
 --
-- [`HS2_Uncensor_Selector_v3.11.5`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Uncensor_Selector_v3.11.56`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Latest Game Update]**
@@ -107,7 +107,7 @@
 --
 - [`HS2_Deformers_v0.6`](https://github.com/DaintyIL/Illusion_Deformers)
 - [`HS2_DHH_v1.01`](http://www.mediafire.com/file/c3r9ffcjgcawilq/HS2_DHH_v1.01.rar/file)
-- [`HS2_Dynamic_Bone_Editor_v1.0.4`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Dynamic_Bone_Editor_v1.0.5`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Drag_And_Drop_v1.2.7`](https://github.com/IllusionMods/DragAndDrop/releases/tag/v1.2.7)
 
 [E]
@@ -155,7 +155,7 @@
 
 [M]
 --
-- [`HS2_Material_Editor_ᴠ3.1.19`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Material_Editor_ᴠ3.1.20`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_MMDD_v2.4`](https://mega.nz/folder/NQhG3IjA#rwyaVwE0O1t3pJe5Fefv2Q/folder/EcY0SACY)
 - [`HS2_More_Accessories_v1.2.2`](https://www.patreon.com/posts/ai-hs2-1-2-2-38995704)
 - [`HS2_Move_Controller_v1.8`](https://mikkemods.blogspot.com/)
@@ -209,7 +209,7 @@
 
 [V]
 --
-- [`HS2_VN_Game_Engine_v39.0`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
+- [`HS2_VN_Game_Engine_v40.1`](https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ) 
 - [`HS2_Video_Export_v1.2.3`](https://github.com/IllusionMods/HSPlugins/releases/tag/r2)
 
 [W]
