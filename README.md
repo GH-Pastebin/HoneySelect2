@@ -50,13 +50,13 @@
 ---
 **[English Translation]**
 --
-- [`HS2_English_Launcher_v3.3.0`](https://github.com/IllusionMods/IllusionLaunchers/releases)
+- [`HS2_English_Launcher_v3.3.2`](https://github.com/IllusionMods/IllusionLaunchers/releases)
 - [`HS2_English_Translation_Alpha_v0.01`](http://www.mediafire.com/file/eb71lfw9pfgqtht/HS2_English_Translation_Alpha_v0.01.7z/file)
 - [`HS2_DX_English_Translation_v4.0`](https://github.com/IllusionMods/HS2-Translation/releases/tag/v3)
 - [`HS2_Translation_Helper_v1.1.0.9`](https://github.com/GeBo1/GeBoPlugins/releases/tag/r37)
 - [`HS2_Translation_v0.5_Final_Version_10/10/2020`](https://bit.ly/2GUPs4g)
 - [`HS2_Text_Resource_Redirector_v1.4.4.3`](https://github.com/IllusionMods/TranslationTools)
-- [`XUnity.Auto_Translator-BepIn-5x-5.1.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- [`XUnity.Auto_Translator-BepIn-5x-5.2.0`](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 
 --- 
 **[Recommended Mod Plugins]**
