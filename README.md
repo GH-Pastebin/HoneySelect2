@@ -39,7 +39,7 @@
 ---
 **[Female & Male Uncensor Mod]**
 --
-- [`HS2_Uncensor_Selector_v3.11.56`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Uncensor_Selector_v3.11.7`](https://github.com/IllusionMods/KK_Plugins)
 
 ---
 **[Latest Game Update]**
@@ -67,7 +67,7 @@
 - [`BepInEx.Plugins_r19.1`](https://github.com/IllusionMods/BepisPlugins/releases)
 - [`Runtime_Unity_Editor_BepInEx5_v4.1.1`](https://github.com/ManlyMarco/RuntimeUnityEditor/releases/latest)
 - [`Manager_ᴠ0.20.2`](https://github.com/IllusionMods/KKManager/releases)
-- [`HS2_Illusion_Fixes_ᴠ20.2a`](https://github.com/IllusionMods/IllusionFixes/releases)
+- [`HS2_Illusion_Fixes_ᴠ21.0.1`](https://github.com/IllusionMods/IllusionFixes/releases)
 - [`HS2_API_ᴠ1.35`](https://github.com/IllusionMods/IllusionModdingAPI/releases)
 
 ---
@@ -89,13 +89,13 @@
 - [`HS2_Better_AA_v1.6`](https://www.patreon.com/posts/29809884) 
 - [`HS2_Boob_Settings_v1.1.0`](https://github.com/FairBear/HS2_BoobSettings/releases)
 - [`HS2_Better_H_Scenes_v2.6.5`](https://github.com/Mantas-2155X/BetterHScenes/releases)
-- [`HS2_Browser_Folders_v2.6.2`](https://www.patreon.com/posts/40644638) 
+- [`HS2_Browser_Folders_v3.0.0`](https://www.patreon.com/posts/40644638) 
 - [`HS2_Beaver_Plugin_v1.2.2`](https://mikkemods.blogspot.com/)
 
 [C]
 --
 - [`HS2_Character_Export_v1.0`](https://github.com/IllusionMods/KK_Plugins) 
-- [`HS2_Colliders_v1.2`](https://github.com/IllusionMods/KK_Plugins)
+- [`HS2_Colliders_v1.3`](https://github.com/IllusionMods/KK_Plugins)
 - [`HS2_Color_Panel_X_Plugin_v1.3.0`](https://mega.nz/file/AJkgSAga#yRyIxYkjBFIWgs2ZdK5nuIpBL8q7V8T51Pg0kRLP8nY)
 - [`HS2_Cloth_Colliders_v1.1`](https://github.com/ManlyMarco/Illusion_ClothColliders)
 - [`HS2_Cheat_Tools_v3.2.0`](https://www.patreon.com/posts/37889909)
@@ -136,7 +136,7 @@
 - [`HS2_Head_Bundle_Redirect`](https://roy12mods.com/wp/essus-headbundleredirect-for-ai-hs2/)
 - [`HS2_Hooh_Hooah_Mutation`](https://www.patreon.com/posts/hooah-mutation-61897192)
 - [`HS2_Hooh_Hooah_v2.2.2`](https://www.patreon.com/posts/hooah-2-2-2-62047922)
-- [`HS2_HS_Plugins_v2022.11.23`](https://github.com/IllusionMods/HSPlugins/releases)
+- [`HS2_HS_Plugins_v2023.03.14`](https://github.com/IllusionMods/HSPlugins/releases)
 
 [I]
 --
@@ -148,7 +148,7 @@
 
 [K]
 --
-- [`HS2_Keel_Plugins_v2022.11.09`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-270)
+- [`HS2_Keel_Plugins_v2023.03.16`](https://github.com/IllusionMods/KeelPlugins/releases/tag/build-270)
 
 [L]
 --
